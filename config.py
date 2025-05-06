@@ -1,0 +1,15 @@
+WIDTH = 800
+HEIGHT = 600
+PLAYER_IMG = "assets/player.png"
+ENEMY_IMG = "assets/enemy.png"
+ENEMYA_IMG = "assets/enemyA.png"
+ENEMYB_IMG = "assets/enemyB.png"
+BULLET_IMG = "assets/bullet.png"
+ENEMY_BULLET_IMG = "assets/enemyBullet.png"
+ASTEROID_IMG = "assets/asteroid.png"
+EXPLOSION_IMG = "assets/explosion.png"
+LASER_SOUND = "sounds/laser.mp3"
+METAL_HIT_SOUND = "sounds/metal_hit.mp3"
+EXPLOSION_SOUND = "sounds/explosion.mp3"
+MOTOR_SOUND = "sounds/motor.mp3"
+ASTEROID_SOUND = "sounds/asteroid.mp3"
